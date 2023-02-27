@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e25fbcac-cfd8-4b03-b852-ebf375985d6e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Practice_7/Practice71.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Practice_6/Practice64.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Practice_6/Practice61.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Practice_7/Practice73.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Common/InputConfig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Practice_13/Practice13.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Unity projects/Draw to pee/DrawToPee/Toilet Rush/Toilet rush/Assets/Scripts/Saving/Data.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Unity projects/Draw to pee/DrawToPee/Toilet Rush/Toilet rush/Assets/Scripts/InformationLevel.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Unity projects/Draw to pee/DrawToPee/Toilet Rush/Toilet rush/Assets/Scripts/LevelsPrefabs.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/RandomingNumbers.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Practice_4.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CollisionsObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Practice_4/CollisionsObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Practice_4/Practice_4_1.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Practice_4/Practice41.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Practice_4/Practice42.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Practice_6/Practice61.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Practice_6/Common/InputConfig.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Practice_6/Practice62.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Practice_6/Practice63.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Practice_6/Practice64.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Practice_7/Practice71.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Practice_7/Practice72.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Practice_7/Practice73.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Practice_8/Practice8.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Common/InputConfig.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Practice_9/Practice9.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Common/ButtonControler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Common/CameraManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Practice_13/Practice13.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2M91WToRdXjF21dtXa4JTpInadc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e25fbcac-cfd8-4b03-b852-ebf375985d6e" name="Default Changelist" comment="" />
+      <created>1677165017244</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677165017244</updated>
+      <workItem from="1677165023138" duration="4046000" />
+      <workItem from="1677449721858" duration="1721000" />
+      <workItem from="1677480649636" duration="1674000" />
+      <workItem from="1677485473002" duration="457000" />
+      <workItem from="1677495344859" duration="1132000" />
+      <workItem from="1677520485039" duration="1075000" />
+      <workItem from="1677524644895" duration="3027000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
